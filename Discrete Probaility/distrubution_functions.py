@@ -2,7 +2,6 @@ import scipy.stats as st
 import math
 import numpy as np
 import matplotlib.pyplot as plt
-import math
 
 #what is the minimum p where the score is 35 or higher 80% of the time?
 def prbablity_distribution(p, a):
