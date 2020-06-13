@@ -53,7 +53,7 @@ def roulette():
 	print("The probability of the earnings being less than or equal to {} is {}".format(a, probability))
 	print("The average is {} ".format(mean))
 	print("My calculated std {} the librarys calculated std {}".format(standard_deviation, std))
-	
+	exit()
 	#--------------------Probability Distribution Chart Display
 	mu = 0				#expected value which is the average of vlaues
 	sigma = 3.31		#standard error of values
